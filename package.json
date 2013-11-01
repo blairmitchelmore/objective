@@ -1,0 +1,15 @@
+{
+  "author": "Blair Mitchelmore",
+  "name": "objective",
+  "description": "Does things to objects",
+  "version": "0.1",
+  "repository": {
+    "url": "https://github.com/blairmitchelmore/objective"
+  },
+  "main": "./objective",
+  "keywords": [
+    "object",
+    "keypath",
+    "access"
+  ],
+}
